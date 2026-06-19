@@ -21,7 +21,7 @@ const RegistrationForm = () => {
   const onSubmit = async (data) => {
     setIsSubmitting(true);
     try {
-      const response = await fetch('http://localhost:8000/api/enquiry', {
+      const response = await fetch('https://workshop-e810.onrender.com/api/enquiry', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(data),
