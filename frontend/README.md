@@ -69,11 +69,10 @@ Response:
 
 ## Live Demo
 
-Add your deployed frontend link here.
+https://workshop-cogk.vercel.app/
 
 ## GitHub Repository
-
-Add your repository link here.
+https://github.com/Piyush-Singh-01/Workshop/
 
 ## Future Improvements
 
