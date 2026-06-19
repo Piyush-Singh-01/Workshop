@@ -85,6 +85,9 @@ Response:
   "message": "Registration submitted successfully"
 }
 ```
+## Live Demo
+
+https://workshop-cogk.vercel.app/
 
 ## GitHub Repository
 
