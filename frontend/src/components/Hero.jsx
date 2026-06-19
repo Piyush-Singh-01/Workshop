@@ -4,7 +4,7 @@ import { ArrowRight, Bot, Cpu, Sparkles } from 'lucide-react';
 
 const Hero = () => {
   return (
-    <section className="relative pt-10 pb-20 lg:pt-15 lg:pb-28 overflow-hidden">
+    <section className="relative pt-10 pb-20 lg:pt-10 lg:pb-28 overflow-hidden">
       <div className="grid lg:grid-cols-2 gap-12 items-center">
         <motion.div
           initial={{ opacity: 0, x: -50 }}
